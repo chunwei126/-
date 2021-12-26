@@ -1,0 +1,8 @@
+C:\Users\bruce\OneDrive\桌面\DataStructure_C\DataStructure_C\obj\Debug\DataStructure_C.csproj.AssemblyReference.cache
+C:\Users\bruce\OneDrive\桌面\DataStructure_C\DataStructure_C\obj\Debug\DataStructure_C.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruce\OneDrive\桌面\DataStructure_C\DataStructure_C\obj\Debug\DataStructure_C.csproj.CoreCompileInputs.cache
+C:\Users\bruce\OneDrive\桌面\DataStructure_C\DataStructure_C\bin\Debug\DataStructure_C.exe.config
+C:\Users\bruce\OneDrive\桌面\DataStructure_C\DataStructure_C\bin\Debug\DataStructure_C.exe
+C:\Users\bruce\OneDrive\桌面\DataStructure_C\DataStructure_C\bin\Debug\DataStructure_C.pdb
+C:\Users\bruce\OneDrive\桌面\DataStructure_C\DataStructure_C\obj\Debug\DataStructure_C.exe
+C:\Users\bruce\OneDrive\桌面\DataStructure_C\DataStructure_C\obj\Debug\DataStructure_C.pdb
